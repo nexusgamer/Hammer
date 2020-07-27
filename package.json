@@ -5,9 +5,9 @@
   "name": "hammer",
   "version": "0.0.1",
   "description": "A simple mod bot",
-  "main": "app.js",
+  "main": "bot.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node bot.js"
   },
   "dependencies": {
     "discord.js": "^12.2.0",
